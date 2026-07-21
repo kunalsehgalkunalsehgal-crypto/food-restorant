@@ -1,0 +1,310 @@
+
+/* .yenavbarha{
+    background: maroon;
+} */
+ .nav-item{
+    padding-left: 2rem;
+    
+ }
+ .nav-link{
+    color: maroon;
+    font-weight: 500; 
+font-size: larger;
+ }
+  .nav-link:hover{
+     color: darkblue;
+    font-weight: 500; 
+font-size: larger;
+  }
+ .num-nav{
+    background: maroon;
+    color: white;
+}
+ .num-nav:hover{
+    background:white;
+    color: maroon;
+}
+/* the home page css */
+.home-page{
+    background-image:url( "images/bg/bg-1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width:100%;
+    background-color: black;
+    padding: 16.78rem  0 9.99rem;
+}
+.home-text h1{
+font-weight: 600;
+    font-size: 61px;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 2rem;
+}
+.home-text p{
+    font-weight: 100;
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    margin-bottom: 2rem;
+}
+.btn1{
+background-color: maroon;
+color: white;
+
+}
+.btn2{
+background-color:white;
+color:black;
+}
+.btn1:hover{
+    transition: slow 1;
+    background-color:white;
+color:maroon;
+}
+.btn2:hover{
+ background-color: maroon;
+color: white;
+}
+.random{
+    background-color: maroon;
+}
+.random-text h3{
+font-weight: 400;
+    font-size: 40px;
+    font-family: cursive;
+    color: white;
+    margin-bottom: 2rem;
+}
+.random-text p{
+    font-weight: 300;
+    font-size: 30px;
+    font-family: cursive;
+    color: white;
+}
+.text-using h3{
+font-weight: 400;
+    font-size: 40px;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 2rem;
+}
+.text-using p{
+        font-weight: 200;
+    font-size: 20px;
+    font-family: cursive;
+    color:black;
+}
+.text-using ul li{
+    /* font-size: 2rem; */
+    line-height: 49px;
+    /* margin-left: 30px; */
+    /* background: black; */
+    font-weight: 200;
+    font-size: 22px;
+    font-family: cursive;
+    color: #212529;
+}
+
+
+
+
+
+.center {
+    background-image: url(images/bg/bg-2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 21rem;
+    width: 100%;
+    background-color: black;
+    padding: 5.78rem 0 1.99rem;
+    text-align: center;
+}
+.center-text h3{
+font-weight: 400;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 1rem;
+}
+.center-text p{
+        font-weight: 200;
+    
+    font-family: cursive;
+    color:black;
+}
+
+
+.text-card h1{
+font-weight: 400;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 1rem;
+}
+.text-card p{
+        font-weight: 200;
+    
+    font-family: cursive;
+    color:black;
+}
+.my-class{
+    transition-duration: 2s;
+}
+.my-class:hover{
+transform: scale(1.1);}
+.my-class img{
+    border-radius: 20rem;
+    border-radius: 10px;
+    object-fit: cover;
+        transition-duration: 2s;
+
+}
+.my-class:hover img{
+    border-radius: 0rem;
+    box-shadow: #212529;
+        transform:rotateY(180deg);
+
+}
+.my-class-text h5{
+    font-weight: 400;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 1rem;
+    font-size: xx-large;
+}
+.my-class-text span{
+color: maroon;
+}
+.my-class-text del{
+    color: grey;
+}
+
+
+.carousel-item{
+    padding: 5rem 0 5rem 0 ;
+    background-color:white;
+    margin-bottom: 3rem;
+}
+
+.carousel-item img{
+  height: 5rem;
+  border-radius: 50%;
+}
+
+.crousal-main{
+    background-color: maroon;
+}
+.cro-item h5{
+    font-weight: 400;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 1rem;
+    font-size: xx-large;
+}
+.cro-item p{
+        font-weight: 200;
+    font-family: cursive;
+    color:black;
+}
+.cro-main-text{
+    font-weight: 400;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    margin-bottom: 1rem;
+    font-size: xx-large;
+}
+
+
+
+
+
+
+
+.faq-head h2{
+font-weight: 600;
+    font-size: 61px;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 2rem;
+}
+.faq-ques h4{
+        font-weight: 400;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 1rem;
+    font-size: xx-large;
+}
+.faq-ques p{
+   font-weight: 200;
+    font-family: cursive;
+    color:black;
+}
+
+
+
+.fod-order{
+    background-image: url(images/bg/bg-3.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 3rem;
+    text-align: center;
+background-attachment: fixed;
+}
+
+
+.fod-order-text h2{
+            font-weight: 400;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 1rem;
+    font-size: xx-large;
+} 
+.fod-order-text p{
+       font-weight: 200;
+    font-family: cursive;
+    color:black;
+}
+
+
+
+.formm-form{
+    width:55%;
+    margin: 0 auto;
+}
+.formm h2{
+            font-weight: 400;
+    font-family: cursive;
+    color: maroon;
+    margin-bottom: 1rem;
+    font-size: xx-large;
+}
+.formm p{
+       font-weight: 200;
+    font-family: cursive;
+    color:black;
+}
+
+#foot{
+    background-color: maroon;
+}
+.foot-1 a:hover ,.foot-2 a:hover{
+   color: black;
+}
+.foot-1 a,.foot-2 a{
+    color:white;
+    text-decoration: none; 
+    padding: 0 1.375rem ;
+    font-size: larger;
+}
+
+
+.final-line{
+    color: aliceblue;
+              font-weight: 200;
+    font-family: cursive;
+    margin-bottom: 1rem;
+    font-size: large;
+}
